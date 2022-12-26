@@ -1,5 +1,3 @@
-# Project6
+# CSCI235 Final Project (Project 6)
 
-You may use the code that was distributed for project 5 as a starting point for this project.
-
-The project specification is available on Blackboard.
+Create a social network with Account and post posted by each account. Using OOP, polymorphism to create each class: Account, Network, Post and its sub-classes: General, Promotional and Poll. Using Abstract Data Type ADT - LinkedList with Nodes as container to store template objects. 
